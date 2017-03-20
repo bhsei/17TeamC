@@ -32,7 +32,7 @@ ___
 >- [ ] 软件演示与测评
 >- [ ] 综合实验分析和总结
 ___
-**组成员:**[@mitu626](https://github.com/mitu626) [@lastFeng](https://github.com/lastFeng) [@woodpenker](https://github.com/woodpenker) [@lastFeng](https://github.com/lastFeng)
+**组成员:**[@mitu626](https://github.com/mitu626) [@lastFeng](https://github.com/lastFeng) [@woodpenker](https://github.com/woodpenker) [@waxxyybb](https://github.com/waxxyybb)
 
 ___
 ***欢迎各位浏览和批评指正!***
