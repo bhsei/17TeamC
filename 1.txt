@@ -1,0 +1,438 @@
+commit afb5fa379a36f66b2be1a8f62becc0ac3bcef5e8
+Author: lastFeng <563805728@qq.com>
+Date:   Mon Apr 10 21:41:05 2017 +0800
+
+    需求规格说明书V1.3 问题清单
+
+commit 2909741c699d6739f72a558a1340a8dc77853054
+Author: JuboGe <ydhuyong@gmail.com>
+Date:   Sun Apr 9 22:04:42 2017 +0800
+
+    debug
+
+commit 2e7c2213d2b58fea2a93143dddb4ea7d7d8cf2c6
+Author: JuboGe <ydhuyong@gmail.com>
+Date:   Sun Apr 9 22:01:56 2017 +0800
+
+    提交汇总评审单
+
+commit f34410080327527f9ab526bbce394f568b94b3b7
+Author: JuboGe <ydhuyong@gmail.com>
+Date:   Sat Apr 8 23:21:24 2017 +0800
+
+    debug
+
+commit e1c244fb85745b75faf988c10af7c40b0d3fbcb5
+Author: woodpenker <woodpenker@163.com>
+Date:   Sat Apr 8 23:08:38 2017 +0800
+
+    docs:fix "非功能性需求"
+    
+    fix非功能性需求的缺失问题
+
+commit 3ae68c884e28e3bf28e46d14f3bce3561e319003
+Author: JuboGe <ydhuyong@gmail.com>
+Date:   Sat Apr 8 23:04:11 2017 +0800
+
+    排版，v1.4
+
+commit 2dd941d96f9a995b7fff61294d8884548c38ed7a
+Author: lastFeng <563805728@qq.com>
+Date:   Sat Apr 8 10:15:22 2017 +0800
+
+    工作日志更新至4/7
+
+commit 7479ef0fb0c9322d1c66f2dc107af2d8d6e50268
+Author: yf w <yf w>
+Date:   Fri Apr 7 23:37:27 2017 +0800
+
+    updated mpp file,current version is 1.2
+
+commit b78cfc191d415ff3818c4ce247c257879ffaf18a
+Merge: 5236ed9 8d7f27a
+Author: yf w <yf w>
+Date:   Thu Apr 6 22:30:47 2017 +0800
+
+    Merge branch 'master' of https://github.com/bhsei/17TeamC_scrapy
+    
+    merge other peoples work about 需求规格说明书
+
+commit 5236ed9ade9e5e0d1a0ca42dfa12a248ca92793d
+Author: yf w <yf w>
+Date:   Thu Apr 6 22:28:48 2017 +0800
+
+    mppfile version1.2 has updated
+
+commit 8d7f27a32bc347d6c38b1f442cc0967849629eaf
+Author: woodpenker <woodpenker@163.com>
+Date:   Thu Apr 6 20:24:04 2017 +0800
+
+    docs:更新至需求文档1.3版
+    
+    1.更新了需求文档，将老师批注的问题逐一修复
+    2.调整了文档的段落和格式
+    3.增加了RUCM图
+    4.删除了部分不需要的内容
+    5.新增了业务需求分析
+
+commit 5bdf413b8f50d346a141bf95ec523b31414a4c85
+Author: lastFeng <563805728@qq.com>
+Date:   Wed Apr 5 14:24:23 2017 +0800
+
+    工作日志更新至4/5
+
+commit a935105a4cf7247b47b8c2b6f2e06dd2296260f3
+Author: wangyifei <mitu626@163.com>
+Date:   Tue Apr 4 17:00:05 2017 +0800
+
+    补充各文件夹内容说明
+
+commit 3476d327bd9a06763c8e97577cfc67977ebaa3b9
+Author: wangyifei <mitu626@163.com>
+Date:   Tue Apr 4 16:30:59 2017 +0800
+
+    修正了markdown语法
+
+commit aa8cf6883b7386795cf3ba01fc7910d61d06b600
+Author: wangyifei <mitu626@163.com>
+Date:   Tue Apr 4 16:06:22 2017 +0800
+
+    更新工作进度
+
+commit c95db6f77a752cc73df8ea1da57e6ec87d174d94
+Author: wangyifei <mitu626@163.com>
+Date:   Tue Apr 4 16:02:50 2017 +0800
+
+    修改文件后缀
+
+commit 19b8e884b5c680c55306862f29619e8268963c3c
+Author: wangyifei <mitu626@163.com>
+Date:   Tue Apr 4 15:59:03 2017 +0800
+
+    Create README
+
+commit c3d7f95d1830863ffebc3f1ed656577953f813c4
+Author: mitu626 <mitu626@163.com>
+Date:   Sat Apr 1 17:50:59 2017 +0800
+
+    updated mpp file
+
+commit f0657903f8d414de851ba9b2dc3624d9249fbb99
+Author: buaaliuchao <cl_tcr@sohu.com>
+Date:   Fri Mar 31 11:12:30 2017 +0800
+
+    刘超：参考本组和其他组的批注
+    
+    刘超：参考本组和其他组的批注
+
+commit 075ff584c98c32f3dfdef90d44749d08d0f51615
+Author: lastFeng <563805728@qq.com>
+Date:   Thu Mar 30 19:32:11 2017 +0800
+
+    评审意见汇总
+
+commit 7c00afc886f0b0fddfc1589ed2cdf581b1a73da5
+Author: lastFeng <563805728@qq.com>
+Date:   Thu Mar 30 19:31:58 2017 +0800
+
+    修改版本号
+
+commit 8b590a6411499a9c7bfaaccafd06777accecff4f
+Author: woodpenker <woodpenker@163.com>
+Date:   Thu Mar 30 17:12:50 2017 +0800
+
+    add:评审
+
+commit f17f69290a37df7bbd77660fb3da0cbe3d4b34ae
+Merge: f2b043d 7df5da2
+Author: woodpenker <woodpenker@163.com>
+Date:   Thu Mar 30 16:55:41 2017 +0800
+
+    Merge branch 'master' of github.com:bhsei/17TeamC_scrapy
+    update
+
+commit f2b043d19b3b1db764398b567c66de0c026cfcdf
+Author: woodpenker <woodpenker@163.com>
+Date:   Thu Mar 30 16:55:17 2017 +0800
+
+    update local
+
+commit f3c2492d236b0ecc60fa3c5dbe106772baaff364
+Author: woodpenker <woodpenker@163.com>
+Date:   Thu Mar 30 13:45:10 2017 +0800
+
+    docs:add 软件需求规格书1.11版
+    
+    增加了用例图和说明，调整了部分章节，删除了数据字典
+
+commit 7df5da222ea19ea74f92b8ab60fbd9f206242e3c
+Merge: c040829 e27852e
+Author: JuboGe <ydhuyong@gmail.com>
+Date:   Thu Mar 30 13:09:10 2017 +0800
+
+    Merge branch 'master' of https://github.com/bhsei/17TeamC_scrapy
+
+commit e27852ec5d7c05d993559d50788228cf7252c84a
+Author: lastFeng <563805728@qq.com>
+Date:   Thu Mar 30 14:08:59 2017 +0800
+
+    评审意见汇总，更新至3/30
+
+commit f467044c8bc582c3ed0cbf0f93b363e442d66fde
+Author: lastFeng <563805728@qq.com>
+Date:   Thu Mar 30 14:07:12 2017 +0800
+
+    需求规格说明书重新提交版本
+
+commit 88dc4b0534e2bec96144a9e00149305529e60ecd
+Merge: a69dca7 f3c2492
+Author: lastFeng <563805728@qq.com>
+Date:   Thu Mar 30 13:47:59 2017 +0800
+
+    Merge branch 'master' of https://github.com/bhsei/17TeamC_scrapy
+
+commit a69dca7e02a7bea2bbba2e4300daa551f2939a2b
+Author: lastFeng <563805728@qq.com>
+Date:   Thu Mar 30 13:46:42 2017 +0800
+
+    需求规格说明书修改第二版
+
+commit c0408291ae448eb90e51129c544f6ebdb90e8791
+Author: JuboGe <ydhuyong@gmail.com>
+Date:   Thu Mar 30 13:08:35 2017 +0800
+
+    添加需求分析网上互评_胡勇
+
+commit 17ccaac76b47270998aa03fa6f387cb9636518e0
+Author: lastFeng <563805728@qq.com>
+Date:   Wed Mar 29 22:51:01 2017 +0800
+
+    上周五的需求意见问答
+
+commit a105b88fb7f772e5a5fa645dd120768ace3ce2bb
+Author: lastFeng <563805728@qq.com>
+Date:   Wed Mar 29 22:45:15 2017 +0800
+
+    会议记录，更新至3/29
+
+commit 0cb15aafc9d0675b74a669a6e87c0d3a2e71989a
+Author: lastFeng <563805728@qq.com>
+Date:   Wed Mar 29 22:40:55 2017 +0800
+
+    AB组评审单
+
+commit 4fb058a3cf237819ad28d76d838e89c851f81897
+Author: lastFeng <563805728@qq.com>
+Date:   Wed Mar 29 20:28:26 2017 +0800
+
+    需求规格说明书修改
+
+commit 43e6f1e3d217b94f7964dcb9d6c508e1274058f8
+Author: JuboGe <ydhuyong@gmail.com>
+Date:   Tue Mar 28 21:55:51 2017 +0800
+
+    修改ppt，新增用例图
+
+commit 7e858658fed12352e8a62158270de8885ce44ffd
+Author: lastFeng <563805728@qq.com>
+Date:   Mon Mar 27 21:22:32 2017 +0800
+
+    需求ppt
+
+commit 1cc2e93a41fba7a2ac6d7bb7dc384983a86141af
+Author: woodpenker <woodpenker@163.com>
+Date:   Fri Mar 24 21:36:22 2017 +0800
+
+    Revert "fix:v1.0bug"
+    
+    This reverts commit 63ec6f916d3ea6ed693a4716d638962d059295c8.
+
+commit 63ec6f916d3ea6ed693a4716d638962d059295c8
+Author: woodpenker <woodpenker@163.com>
+Date:   Fri Mar 24 21:24:01 2017 +0800
+
+    fix:v1.0bug
+
+commit 4319fa474f3f83ed97a6c7a287536248357a71c7
+Author: woodpenker <woodpenker@163.com>
+Date:   Fri Mar 24 21:18:06 2017 +0800
+
+    update:需求文档
+
+commit 52a2a495d44db964d3e1be15da61cc25ba1a62d3
+Author: woodpenker <woodpenker@163.com>
+Date:   Tue Mar 21 21:23:05 2017 +0800
+
+    add:需求规格说明书v1.0
+
+commit 092bd86f3ffb6f37be490df4e4bf5d3dd64d79d4
+Author: lastFeng <563805728@qq.com>
+Date:   Mon Mar 20 20:53:52 2017 +0800
+
+    第一次评审汇总
+    
+    其他小组评审意见汇总及组内评审意见汇总
+
+commit db20d399643f3cfbb16ea29974067cff2c8d4867
+Author: lastFeng <563805728@qq.com>
+Date:   Mon Mar 20 15:22:39 2017 +0800
+
+    UML入门教程
+    
+    UML学习资料
+
+commit 2f02dc78705a19947f2f2ab2c4c6fafd412a1f41
+Author: lastFeng <563805728@qq.com>
+Date:   Mon Mar 20 15:22:12 2017 +0800
+
+    项目计划版本更新
+    
+    添加封面、目录，术语等信息， 版本更新
+
+commit 999b46c7588d5c7245bb2dd4c4db6e684b8c2558
+Author: lastFeng <563805728@qq.com>
+Date:   Mon Mar 20 15:21:21 2017 +0800
+
+    日志更新
+    
+    日志更新至3/19
+
+commit db4f130df2c9dad936dbcc6d5f08ece43b8e91b7
+Author: mitu626 <mitu626@163.com>
+Date:   Mon Mar 20 10:52:08 2017 +0800
+
+    add a updated-version .mmp file
+
+commit 1b9ec5e9f501f38f5ff663f4d0aff6a2011fa305
+Author: mitu626 <mitu626@163.com>
+Date:   Mon Mar 20 10:50:27 2017 +0800
+
+    error roll back
+
+commit c1bd88b911b8c7f6cdc4ce2061ff753cd6d2f37d
+Merge: f0e8912 2081ec7
+Author: mitu626 <mitu626@163.com>
+Date:   Mon Mar 20 10:36:16 2017 +0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    this is my first time to merge,and i pulled the most newly updated repo.
+
+commit f0e8912c29ea27c293b1854e499460b5e854d6b3
+Author: mitu626 <mitu626@163.com>
+Date:   Mon Mar 20 10:24:06 2017 +0800
+
+    updated/add new assignments
+
+commit be823e087e7525ebf94d2a776557e3a5287ae9d7
+Author: mitu626 <mitu626@163.com>
+Date:   Mon Mar 20 10:14:54 2017 +0800
+
+    updated
+
+commit 2081ec769072e28b609ce4bab27dcb17e9c3c3f7
+Author: woodpenker <woodpenker@163.com>
+Date:   Mon Mar 20 08:48:57 2017 +0800
+
+    Update README.md
+
+commit 1e4671a295e5adc390b02317dee85bf3db7ac96c
+Author: woodpenker <woodpenker@163.com>
+Date:   Mon Mar 20 00:15:16 2017 +0800
+
+    fix:first line
+
+commit ee5a93fc54d7cd963a079604f5145d09cccb4ffa
+Author: woodpenker <woodpenker@163.com>
+Date:   Mon Mar 20 00:12:07 2017 +0800
+
+    fix:fix README.md error
+    
+    删除第一行;
+    修复进度列表错误
+
+commit e6c34c4ffc19cd3bf0314b0840c4bec711131bd2
+Author: woodpenker <woodpenker@163.com>
+Date:   Mon Mar 20 00:06:35 2017 +0800
+
+    docs:补全说明文档
+    
+    补全了README文件的相关说明并附上实验工作的进度展示
+
+commit f0768e6fb2c1572486341d3c87525cba052efae3
+Author: wangyifei <mitu626@163.com>
+Date:   Sun Mar 19 22:27:08 2017 +0800
+
+    Create README.md
+
+commit 03d22f5c6f4caeeeb9e3da9d68ae3fbadedec889
+Author: lastFeng <563805728@qq.com>
+Date:   Sun Mar 19 19:10:03 2017 +0800
+
+    修改
+    
+    根据评审进行修改
+
+commit 8e9a0961e14e01c505ae351fbfc92ae3158487e7
+Author: lastFeng <563805728@qq.com>
+Date:   Sun Mar 19 19:09:35 2017 +0800
+
+    修改
+    
+    根据评审意见进行字体的修改
+
+commit 5bcb6ffc05f4fcc594642216e84fb2ac623ee5cb
+Author: lastFeng <563805728@qq.com>
+Date:   Sun Mar 19 19:08:50 2017 +0800
+
+    根据评审修改
+    
+    根据评审的内容，进行字体，字符的修改
+
+commit 526db985d6e441157f38d33b868f791d6e1e8ded
+Author: lastFeng <563805728@qq.com>
+Date:   Fri Mar 17 21:19:06 2017 +0800
+
+    参考资料
+    
+    关于Scrapy的参考资料以及github源码压缩包
+
+commit 76cd77afd66e93de84f6a0eb814d83152f7ee2ff
+Author: lastFeng <563805728@qq.com>
+Date:   Fri Mar 17 21:18:28 2017 +0800
+
+    项目计划书
+    
+    项目计划书第一版本，组员间的分工还未确定，会持续更新
+
+commit a294b0ea8ddb0f2f61d9a731c821d9f2a4727dcb
+Author: lastFeng <563805728@qq.com>
+Date:   Fri Mar 17 21:17:49 2017 +0800
+
+    项目计划书
+    
+    项目计划书第一版本，主要记录了本周的详细计划跟接下来几周的计划大纲，具体计划有待更新
+
+commit 684e3c0740c931201f3fff6a96db1d4b612a3a03
+Author: lastFeng <563805728@qq.com>
+Date:   Fri Mar 17 21:16:51 2017 +0800
+
+    项目计划ppt
+    
+    Scrapy项目计划的ppt
+
+commit e9ace8bd379a59dfecd36a8597cc73b3c22ccdf6
+Author: lastFeng <563805728@qq.com>
+Date:   Fri Mar 17 21:16:31 2017 +0800
+
+    项目计划问与答
+    
+    3/17号项目计划演讲的问和答，及5，6，7点需要考虑的问题
+
+commit 4a24c7564767dd4086da69f9f931d6f29d6e8446
+Author: lastFeng <563805728@qq.com>
+Date:   Fri Mar 17 21:15:01 2017 +0800
+
+    本周工作日志
+    
+    记录了小组的讨论时间及讨论内容
