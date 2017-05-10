@@ -8,7 +8,7 @@ from scrapy.utils.job import job_dir
 from scrapy.utils.request import request_fingerprint
 from filters import Filters
 
-from pybloomfilter import BloomFilter
+#from pybloomfilter import BloomFilter
 
 
 class BaseDupeFilter(object):
