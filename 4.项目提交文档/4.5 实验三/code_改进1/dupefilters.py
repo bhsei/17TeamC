@@ -44,11 +44,11 @@ class RFPDupeFilter(BaseDupeFilter):
                 self.logger.info("created bloomfilter({},{}) from exist file {}"
                         .format(m_length, error_rate, filepath))
             else:
-                self.fingerprints = BloomFilter(m_length, error_rate, filepath)
+                self.fingerprints = Filters(m_length, error_rate, filepath)
                 self.logger.info("created bloomfilter({},{}) from new file {}"
                         .format(m_length, error_rate, filepath))
         else:
-            self.fingerprints = BloomFilter(m_length, error_rate, None)
+            self.fingerprints = Filters(m_length, error_rate, None)
             self.logger.info("created bloomfilter({},{}) from anonymous file"
                     .format(m_length, error_rate))
 
