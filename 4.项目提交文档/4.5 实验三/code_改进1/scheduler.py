@@ -1,6 +1,7 @@
 import os
 import json
 import logging
+import time
 from os.path import join, exists
 from six.moves import cPickle as pickle
 
@@ -80,6 +81,10 @@ class Scheduler(object):
                    jobdir=job_dir(settings), logunser=logunser, stats=crawler.stats)
 
     def has_pending_requests(self):
+        if len(self) > 0:
+            return True
+        else:
+            time.sleep(5)
         return len(self) > 0
 
     def open(self, spider):
