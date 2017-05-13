@@ -4,7 +4,7 @@ import math
 
 class Filters(object):
 
-    A = [ # used to do | or & operator when set bit or check bit
+    A = [ # used to do | operator when set bit
           0b10000000, 0b01000000,   #128, 64
           0b00100000, 0b00010000,   #32,  16
           0b00001000, 0b00000100,   #8,   4
